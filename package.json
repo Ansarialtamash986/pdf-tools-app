@@ -1,6 +1,7 @@
 {
   "name": "pdf-tools-app",
   "version": "1.0.0",
+  "type": "module",
   "description": "Simple iLovePDF-style converter app",
   "main": "server.js",
   "scripts": {
